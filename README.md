@@ -1,6 +1,6 @@
 # DutchAuction NFT Marketplace
 
-This repository contains a series of versions showcasing the development of a DutchAuction NFT Marketplace. Each version adds new functionality and features to the smart contracts, and a ReactJS user interface is implemented in Version 6.0 to interact with the contracts.
+This repository contains a series of versions showcasing the development of a DutchAuction NFT Marketplace. Each version adds new functionality and features to the smart contracts, and a ReactJS user interface is implemented in Version 6.0 to interact with the contracts. Built using Solidity, Hardhat, React and Typescript
 
 ## Version 1.0
 
